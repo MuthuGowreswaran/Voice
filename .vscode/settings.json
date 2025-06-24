@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python313\\;${env:PATH}"
+    }
+}
